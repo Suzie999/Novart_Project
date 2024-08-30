@@ -200,3 +200,6 @@ Brand
 FROM `my-sql-projects-432315.Novart_Project.Non_personal` 
 GROUP BY Brand, `Activity Method grouped`
 ORDER BY Brand, `Activity Method grouped`; #saved query as Summary_Non-Personal_DigitalEngagement
+
+git fetch origin
+git checkout 1-sql-analysis-in-big-query
