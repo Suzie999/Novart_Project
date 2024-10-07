@@ -1,4 +1,4 @@
-# Novart_Project
+# Medics_Project
 Customer Engagement Analysis_2021
 
 Following on from an intense bootcamp to learn Data Analytics, this is my first solo project.
